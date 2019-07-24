@@ -52,6 +52,4 @@ Then, obtain a reference to the users collection by invoking collection() method
 
 Finally,  run add() method by passing new data as a JavaScript object.
 
-[https://softauthor.com/wp-content/uploads/2019/07/firestore-add-data.png](https://softauthor.com/wp-content/uploads/2019/07/firestore-add-data.png)
-
-[Continue Reading]()
+[Continue Reading](https://softauthor.com/firestore-querying-filtering-data-for-web/#add-document-to-cloud-firestore)
