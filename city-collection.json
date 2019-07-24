@@ -1,10 +1,4 @@
-cities.forEach(city => {
-                db.collection("canadian-cities")
-                    .doc()
-                    .set(city);
-            });
-
-var cities = [
+[
                 {
                     city: "Selkirk",
                     city_ascii: "Selkirk",
